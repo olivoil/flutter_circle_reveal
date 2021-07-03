@@ -6,4 +6,4 @@ Animated onboarding screens in [Flutter](https://flutter.dev) based on a [worksh
 
 ## Screenshot
 
-![Animated onboarding screens](./docs/circle_reveal_transition.gif)
+![screenshot](docs/circle_reveal_transform.gif)
